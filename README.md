@@ -3,9 +3,9 @@
 # Salvando modificações no git 
 *comando git push
 
-## salvando alterações no Git
-* comando git push
-* comando git pull
-
+## salvando alterações no Git       
+* comando git push        
+* comando git pull            
+* comando git fetch
 ## criando mais um titulo para ver no git log
 * uso do comando git restore
